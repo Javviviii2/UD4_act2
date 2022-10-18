@@ -1,0 +1,43 @@
+
+div {
+   float:left;
+}
+
+.hero-img{
+   background-image:linear-gradient(rgb(0,0,0,0.3), rgb(0,0,0,0.3)) ,url('./img/reloj.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   border-radius: 15px;
+   padding: 20px;
+   margin:2%;
+   height: 600px;
+}
+
+.poem{
+   padding: 10px;
+   font-size: 15px;
+
+}
+.poem1{
+   color: aliceblue;
+   width: 20%;
+   padding-right: 300px;
+   margin-right: 50px;
+   margin-top: 50;
+}
+.poem2{
+   color: aliceblue;
+   width: 30%;
+   margin-left: 250px;
+   margin-top: 190px;
+}
+
+h2{
+   text-align: right;
+   font-size: 20px;
+}
+h1{
+   font-size: 30px;
+   text-align: center;
+   color: aliceblue;
+}
